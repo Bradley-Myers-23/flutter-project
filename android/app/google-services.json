@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152646900481",
+    "project_id": "connect-four-574d7",
+    "storage_bucket": "connect-four-574d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152646900481:android:3666f0c902c9d4ac661900",
+        "android_client_info": {
+          "package_name": "com.example.game_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152646900481-3f4lvdivliknn7fcipfqe549hq8lmgac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8MflQmIva2sTFV8ocE8rkTCdzKc7E6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152646900481-3f4lvdivliknn7fcipfqe549hq8lmgac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
